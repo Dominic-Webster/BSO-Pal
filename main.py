@@ -45,7 +45,7 @@ def chat_bot():
     valcut: float = 0.6
     trainmode : bool = False
     
-    print('LorAI: Hi! I\'m LorAI, your friendly BSO chatbot!')
+    print('BSO-Pal: Hi! I\'m BSO-Pal, your friendly BSO chatbot!')
     valcut = 0.6
     
     while True:
@@ -71,19 +71,19 @@ def chat_bot():
         
             if best_match:
                 answer: str = get_answer_for_question(best_match, knowledge_base)
-                print(f'LorAI: {answer}')
+                print(f'BSO-Pal: {answer}')
             
             elif trainmode == True:
-                print('LorAI: I don\'t know the answer. Can you teach me?')
+                print('BSO-Pal: I don\'t know the answer. Can you teach me?')
                 new_answer: str = input('Type the answer or "skip" to skip: ')
                 
                 if new_answer.lower() != 'skip':
                     knowledge_base["questions"].append({"question": user_input, "answer": new_answer})
                     save_knowledge_base('info.json', knowledge_base)
-                    print('LorAI: Thanks! New response has been learned!')
+                    print('BSO-Pal: Thanks! New response has been learned!')
             
             else:
-                print('LorAI: I\'m afraid I don\'t know the answer, I\'m sorry.')
+                print('BSO-Pal: I\'m afraid I don\'t know the answer, I\'m sorry.')
 
                 
 if __name__ == '__main__':
