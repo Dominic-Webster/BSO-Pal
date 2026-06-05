@@ -34,7 +34,9 @@ sendBtn.addEventListener("click", sendMessage);
 
 function sendMessage() {
 
-    const question = input.value;
+    const question = input.value.trim();
+
+    if (!question) return;
 
     addMessage(question, "user");
 
@@ -44,6 +46,12 @@ function sendMessage() {
 
     input.value = "";
 }
+
+input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+        sendMessage();
+    }
+});
 
 function addMessage(text, type) {
 
