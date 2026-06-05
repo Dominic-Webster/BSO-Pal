@@ -29,6 +29,8 @@ html, body {
 .left-panel h1 {
     text-align: center;
     margin-top: 0;
+    background-color: #00694E;
+    color: white;
 }
 
 .center-panel {
@@ -49,10 +51,6 @@ html, body {
     flex-direction: column;
     height: 100%;
     min-width: 0;
-}
-
-.left-panel h1 {
-    margin-top: 0;
 }
 
 .left-panel .info h2 {
@@ -99,7 +97,7 @@ html, body {
 
 .user {
     background: #B5E3D8;
-    text-align: right;
+    text-align: left;
     margin-left: auto;
 }
 

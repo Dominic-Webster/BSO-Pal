@@ -16,11 +16,29 @@ async function loadKnowledge() {
         // Support multiple knowledge formats:
         // 1) { "questions": [ {"question": "...", "answer": "..."}, ... ] }
         // 2) { "keywords": ["office","duty phone"], "answer": "..." }
-        // 3) an array of {question,answer} objects
+        // 3) { "entries": [ { "keywords": [...], "answer": "..." }, ... ] }
+        // 4) an array of {question,answer} objects
         if (Array.isArray(data.questions)) {
             knowledgeBase = data.questions;
         } else if (Array.isArray(data)) {
             knowledgeBase = data;
+        } else if (Array.isArray(data.entries)) {
+            knowledgeBase = data.entries.flatMap((entry) => {
+                if (!entry || !entry.answer) return [];
+
+                if (Array.isArray(entry.keywords)) {
+                    return entry.keywords.map((keyword) => ({
+                        question: String(keyword),
+                        answer: entry.answer,
+                    }));
+                }
+
+                if (entry.question) {
+                    return [{ question: String(entry.question), answer: entry.answer }];
+                }
+
+                return [];
+            });
         } else if (Array.isArray(data.keywords) && data.answer) {
             knowledgeBase = data.keywords.map(k => ({ question: k, answer: data.answer }));
         } else if (data.question && data.answer) {
