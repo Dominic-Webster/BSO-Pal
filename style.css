@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background: #024230;
+    margin: 0;
 }
 
 html, body {
@@ -10,8 +11,10 @@ html, body {
 
 .layout {
     display: flex;
-    height: 100vh;
+    height: 100dvh;
+    min-height: 100vh;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 .left-panel {
@@ -33,6 +36,7 @@ html, body {
     box-sizing: border-box;
     padding: 20px;
     background: #fafafa;
+    min-width: 0;
 }
 
 .center-panel {
@@ -44,6 +48,7 @@ html, body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    min-width: 0;
 }
 
 .left-panel h1 {
@@ -68,24 +73,34 @@ html, body {
     background: white;
     flex: 1 1 auto;
     overflow-y: auto;
+    overflow-x: hidden;
     border-radius: 10px;
     padding: 15px;
     min-height: 0;
+    min-width: 0;
 }
 
 .message {
+    display: block;
     padding: 10px;
     margin: 10px 0;
     border-radius: 10px;
+    max-width: 85%;
+    box-sizing: border-box;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
 }
 
 .bot {
     background: #E7ECC3;
+    margin-right: auto;
 }
 
 .user {
     background: #B5E3D8;
     text-align: right;
+    margin-left: auto;
 }
 
 .input-area {
@@ -108,4 +123,54 @@ button {
     background-color: #00694E;
     color: white;
     border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    .layout {
+        flex-direction: column;
+        height: 100dvh;
+        min-height: 100dvh;
+        border-radius: 0;
+    }
+
+    .left-panel {
+        flex: 0 0 auto;
+        width: 100%;
+        padding: 14px 16px;
+        border-right: none;
+        border-bottom: 1px solid #e0e0e0;
+    }
+
+    .left-panel h1,
+    .left-panel .info h2 {
+        margin-bottom: 8px;
+    }
+
+    .center-panel {
+        flex: 1 1 auto;
+        width: 100%;
+        padding: 14px 16px 16px;
+        min-height: 0;
+    }
+
+    .chat-panel {
+        min-height: 0;
+    }
+
+    #chat-box {
+        flex: 1 1 auto;
+        min-height: 0;
+    }
+
+    .message {
+        max-width: 92%;
+    }
+
+    .input-area {
+        margin-top: 10px;
+    }
+
+    input {
+        min-width: 0;
+    }
 }
