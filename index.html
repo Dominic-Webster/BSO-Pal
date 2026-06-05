@@ -6,24 +6,30 @@
 </head>
 <body>
 
-    <div class="container">
+    <div class="layout">
 
-        <h1>BSO-Pal</h1>
-
-        <div id="chat-box">
-            <div class="message bot">
-                Hi! I'm BSO-Pal.
+        <aside class="left-panel">
+            <h1>BSO-Pal</h1>
+            <div class="info">
+                <h2>Contact & Quick Info</h2>
+                <ul id="info-list">
+                    <li>BSO office number: 740-593-1951</li>
+                </ul>
             </div>
-        </div>
+        </aside>
 
-        <div class="input-area">
-            <input
-                type="text"
-                id="user-input"
-                placeholder="Ask a question..."
-            >
-            <button id="send-btn">Send</button>
-        </div>
+        <main class="center-panel">
+            <section class="chat-panel">
+                <div id="chat-box">
+                    <div class="message bot">Hi! I'm BSO-Pal, what can I help you with?</div>
+                </div>
+
+                <div class="input-area">
+                    <input type="text" id="user-input" placeholder="Ask a question..." aria-label="Ask a question">
+                    <button id="send-btn">Send</button>
+                </div>
+            </section>
+        </main>
 
     </div>
 
