@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "keywords": ["hi", "hello"],
+      "answer": "Hi! How can I be of assistance?"
+    },
+    {
+      "keywords": ["golf cart"],
+      "answer": "To notify the golf cart, call the BSO office: 740-593-1951"
+    },
+    {
+      "keywords": ["thank"],
+      "answer": "Of course! Let me know if I can be of further assistance!"
+    },
+    {
       "keywords": ["office", "duty phone", "number"],
       "answer": "BSO Office #: 740-593-1951"
     },
