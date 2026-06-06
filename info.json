@@ -237,7 +237,7 @@
       "answer": "Academic Essentials takes place on Day 2 from 9:35 to 11:05"
     },
     {
-      "keywords": ["succeeding time", "when is succeeding"],
+      "keywords": ["succeeding time", "when is succeeding", "succeed"],
       "answer": "Succeeding takes place on Day 2 from 8:25 to 9:25"
     },
     {
@@ -253,12 +253,12 @@
       "answer": "Thriving takes place on Day 1 in Morton 201, from 6:40 to 7:15"
     },
     {
-      "keywords": ["bso blast"],
+      "keywords": ["bso blast", "blast"],
       "answer": "BSO Blast takes place on Day 1, from 8:30 to 10:00"
     },
     {
       "keywords": ["slate", "slate link", "how do I get on slate"],
-      "answer": "The link to Slate is: https://enroll.ohio.edu/manage/"
+      "answer": "The link to Slate is: https://enroll.ohio.edu/manage/ \n - Click 'Events' tab at the top\n - Select BSO event for today\n - Click 'Launch Registration'"
     }
   ]
 }
