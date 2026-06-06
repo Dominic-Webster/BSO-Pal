@@ -215,6 +215,18 @@
     {
       "keywords": ["ohio honors program breakout", "where is ohio honors program breakout", "what is ohio honors program breakout"],
       "answer": "The OHIO Honors Program breakout session takes place during session 2 in Morton 127\nThis session covers program requirements and opportunities for the OHIO Honors Program, an experience-based program that supports students through interdisciplinary coursework and out-of-class activities."
+    },
+    {
+      "keywords": ["breakout", "breakout sessions"],
+      "answer": "BREAKOUT SESSIONS:\nLiving on Campus (3:50-4:30, 4:40-5:20): Morton 201\nGetting Involved (3:50-4:30, 4:40-5:20): Morton 235\nBeyond Books & Tutoring (3:50-4:30, 4:40-5:20): Morton 115\nHolistic Support (3:50-4:30, 4:40-5:20): Morton 237\nCommuter Student Experience (3:50-4:30): Morton 127\nOHIO Honors Program (4:40-5:20): Morton 127"
+    },
+    {
+      "keywords": ["dinner", "when is dinner"],
+      "answer": "Dinner takes place on Day 1 at Nelson, 5:20 - 6:30"
+    },
+    {
+      "keywords": ["slate", "slate link", "how do I get on slate"],
+      "answer": "The link to Slate is: https://enroll.ohio.edu/manage/"
     }
   ]
 }
