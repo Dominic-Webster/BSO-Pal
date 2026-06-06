@@ -70,7 +70,6 @@ function findAnswer(userInput) {
         const q = item.question.toLowerCase().trim();
         let score = 0;
 
-        // direct exact or phrase containment gets the strongest score
         if (userInput === q) {
             score = 1000 + q.length;
         } else if (userInput.includes(q)) {
@@ -78,7 +77,6 @@ function findAnswer(userInput) {
         } else if (q.includes(userInput)) {
             score = 600 + userInput.length;
         } else {
-            // simple word-overlap: count user words that appear in the stored question
             const userWords = userInput.split(/\s+/).filter(w => w.length > 2);
             let matchCount = 0;
             for (const w of userWords) if (q.includes(w)) matchCount++;
@@ -121,6 +119,7 @@ function sendMessage() {
     input.value = "";
 }
 
+// adds a new message bubble
 function addMessage(text, type) {
     const chatBox = document.getElementById("chat-box");
     const div = document.createElement("div");

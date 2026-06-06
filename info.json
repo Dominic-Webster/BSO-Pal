@@ -5,6 +5,10 @@
       "answer": "Hi! How can I be of assistance?"
     },
     {
+      "keywords": ["what do you do"],
+      "answer": "My capabilities include:\n - Color group locations\n - College group loactions\n - Breakout session info \n - Schedule event times/locations"
+    },
+    {
       "keywords": ["help"],
       "answer": "How may I help?"
     },
