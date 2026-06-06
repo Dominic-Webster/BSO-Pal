@@ -19,6 +19,14 @@
     {
       "keywords": ["email", "contact"],
       "answer": "BSO Email: orientation@ohio.edu"
+    },
+    {
+      "keywords": ["belonging locations"],
+      "answer": "Blue: Ellis 013 & 014\nGray: Tupper 204\nGreen: RTV 267\nLime: Ellis 103 & 106\nOrange: Tupper 304\nPink: RTV 281\nPurple: Ellis 114 & 115\nRed: RTV 265\nTeal: Tupper 104\nYellow: Tupper 107"
+    },
+    {
+      "keywords": ["advising locations"],
+      "answer": "Arts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
     }
   ]
 }

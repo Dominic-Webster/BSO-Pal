@@ -112,7 +112,16 @@ function addMessage(text, type) {
     div.classList.add("message");
     div.classList.add(type);
 
-    div.textContent = text;
+    const normalizedText = String(text).replace(/\\n/g, "\n");
+    const lines = normalizedText.split(/\r?\n/);
+
+    lines.forEach((line, index) => {
+        if (index > 0) {
+            div.appendChild(document.createElement("br"));
+        }
+
+        div.appendChild(document.createTextNode(line));
+    });
 
     chatBox.appendChild(div);
 
