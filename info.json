@@ -221,8 +221,24 @@
       "answer": "BREAKOUT SESSIONS:\nLiving on Campus (3:50-4:30, 4:40-5:20): Morton 201\nGetting Involved (3:50-4:30, 4:40-5:20): Morton 235\nBeyond Books & Tutoring (3:50-4:30, 4:40-5:20): Morton 115\nHolistic Support (3:50-4:30, 4:40-5:20): Morton 237\nCommuter Student Experience (3:50-4:30): Morton 127\nOHIO Honors Program (4:40-5:20): Morton 127"
     },
     {
-      "keywords": ["dinner", "when is dinner"],
+      "keywords": ["dinner", "when is dinner", "din"],
       "answer": "Dinner takes place on Day 1 at Nelson, 5:20 - 6:30"
+    },
+    {
+      "keywords": ["academic essentials time", "when is academic essentials"],
+      "answer": "Academic Essentials takes place on Day 2 from 9:35 to 11:05"
+    },
+    {
+      "keywords": ["succeeding time", "when is succeeding"],
+      "answer": "Succeeding takes place on Day 2 from 8:25 to 9:25"
+    },
+    {
+      "keywords": ["owning time", "when is owning"],
+      "answer": "Owning takes place on Day 2 from 11:05 to 11:45"
+    },
+    {
+      "keywords": ["advising time", "when is advising"],
+      "answer": "Advising takes place on Day 2 starting at 1:50"
     },
     {
       "keywords": ["slate", "slate link", "how do I get on slate"],
