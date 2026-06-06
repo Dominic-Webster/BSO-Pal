@@ -9,6 +9,14 @@
       "answer": "How may I help?"
     },
     {
+      "keywords": ["facilities"],
+      "answer": "The facilities number is: 740-593-2911"
+    },
+    {
+      "keywords": ["doors are locked"],
+      "answer": "If the doors for your building are locked, I would suggest either informing your GA or calling facilities: 740-593-2911"
+    },
+    {
       "keywords": ["golf cart", "golf", "cart"],
       "answer": "To notify the golf cart, call the BSO office: 740-593-1951"
     },
@@ -173,8 +181,40 @@
       "answer": "Belonging takes place Day 1 from 1:50 to 3:35"
     },
     {
-      "keywords": ["does parker dye his hair"],
+      "keywords": ["does parker dye his hair", "parker"],
       "answer": "Yes, Parker dyes his hair red"
+    },
+    {
+      "keywords": ["shuttle", "shuttle schedule", "shuttle times", "shuttle route"],
+      "answer": "SHUTTLE SCHEDULES:\n\nDay 1: 8:30 a.m. - 12:45 p.m.\nConvo -> Jeff -> Baker\n\nDay 2: 6:15 a.m. - 8:30 a.m.\nJeff -> Convo -> Baker -> Nelson\n\nEach loop takes ~20 minutes"
+    },
+    {
+      "keywords": ["when is breakout", "breakout times"],
+      "answer": "Breakout session 1 takes place Day 1 from 3:50 to 4:30\nBreakout session 2 takes place Day 1 from 4:40 to 5:20"
+    },
+    {
+      "keywords": ["living on campus", "where is living on campus", "what is living on campus"],
+      "answer": "The Living on Campus breakout session takes place both times in Morton 201\nThis session covers details and tips regarding move-in, dining venues, and technology resources as you prepare for life on campus at OU"
+    },
+    {
+      "keywords": ["getting involved", "where is getting involved", "what is getting involved"],
+      "answer": "The Getting Involved breakout session takes place both times in Morton 235\nThis session helps find your community, develop your leadership skills, and create lasting memories. With 400+ organizations, student governement, and sorority/fraternity life, there is something for everyone"
+    },
+    {
+      "keywords": ["beyond books and tutoring", "where is beyond books and tutoring", "what is beyond books and tutoring"],
+      "answer": "The Beyond Books & Tutoring breakout session takes place both times in Morton 115\nThis session covers campus resources that support academic success, including tutoring, help services, study spaces, and acclimating to campus"
+    },
+    {
+      "keywords": ["holistic support", "where is holistic support", "what is holistic support"],
+      "answer": "The Holistic Support breakout session takes place both times in Morton 237\nThis session will introduce a variety of support services, including student accomodations, peer connected programming, well-being coaching, and student health services"
+    },
+    {
+      "keywords": ["commuter student experience", "where is commuter student experience", "what is commuter student experienceholistic support"],
+      "answer": "The Commuter Student Experience breakout session takes place during session 1 in Morton 127\nThis session explores commuter-specific resources, as well as commuter programming, outreach events, and student employement opportunities on campus"
+    },
+    {
+      "keywords": ["ohio honors program breakout", "where is ohio honors program breakout", "what is ohio honors program breakout"],
+      "answer": "The OHIO Honors Program breakout session takes place during session 2 in Morton 127\nThis session covers program requirements and opportunities for the OHIO Honors Program, an experience-based program that supports students through interdisciplinary coursework and out-of-class activities."
     }
   ]
 }
