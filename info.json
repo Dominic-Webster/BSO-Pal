@@ -29,48 +29,84 @@
       "answer": "RUFUS RUMBLE LOCATIONS:\nBlue: Morton 115\nGray: Morton 215\nGreen: Morton 222\nLime: Morton 122\nOrange: Morton 218\nPink: Morton 226\nPurple: Morton 126\nRed: Morton 219\nTeal: Morton 227\nYellow: Morton 127"
     },
     {
-      "keywords": ["blue", "blue belonging", "blue rufus rumble"],
+      "keywords": ["blue", "blu", "blue belonging", "blue rufus rumble", "where is blue"],
       "answer": "Blue group has belonging in Ellis 013 and 014, and Rufus Rumble in Morton 115"
     },
     {
-      "keywords": ["gray", "gray belonging", "gray rufus rumble"],
+      "keywords": ["gray", "grey", "grey belonging", "gray belonging", "gray rufus rumble", "grey rufus rumble", "where is gray", "where is grey"],
       "answer": "Gray group has belonging in Tupper 204, and Rufus Rumble in Morton 215"
     },
     {
-      "keywords": ["green", "green belonging", "green rufus rumble"],
+      "keywords": ["green", "green belonging", "green rufus rumble", "where is green"],
       "answer": "Green group has belonging in RTV 267, and Rufus Rumble in Morton 222"
     },
     {
-      "keywords": ["lime", "lime belonging", "lime rufus rumble"],
+      "keywords": ["lime", "lime belonging", "lime rufus rumble", "where is lime"],
       "answer": "Lime group has belonging in Ellis 10 and 104, and Rufus Rumble in Morton 122"
     },
     {
-      "keywords": ["orange", "orange belonging", "orange rufus rumble"],
+      "keywords": ["orange", "orange belonging", "orange rufus rumble", "where is orange"],
       "answer": "Orange group has belonging in Tupper 304, and Rufus Rumble in Morton 218"
     },
     {
-      "keywords": ["pink", "pink belonging", "pink rufus rumble"],
+      "keywords": ["pink", "pink belonging", "pink rufus rumble", "where is pink"],
       "answer": "Pink group has belonging in RTV 281, and Rufus Rumble in Morton 226"
     },
     {
-      "keywords": ["purple", "purple belonging", "purple rufus rumble"],
+      "keywords": ["purple", "purple belonging", "purple rufus rumble", "where is purple"],
       "answer": "Purple group has belonging in Ellis 114 and 115, and Rufus Rumble in Morton 126"
     },
     {
-      "keywords": ["red", "red belonging", "red rufus rumble"],
+      "keywords": ["red", "red belonging", "red rufus rumble", "where is red"],
       "answer": "Red group has belonging in RTV 265, and Rufus Rumble in Morton 219"
     },
     {
-      "keywords": ["teal", "teal belonging", "teal rufus rumble"],
+      "keywords": ["teal", "teal belonging", "teal rufus rumble", "where is teal"],
       "answer": "Teal group has belonging in Tupper 104, and Rufus Rumble in Morton 227"
     },
     {
-      "keywords": ["yellow", "yellow belonging", "yellow rufus rumble"],
+      "keywords": ["yellow", "yellow belonging", "yellow rufus rumble", "where is yellow"],
       "answer": "Yellow group has belonging in Tupper 107, and Rufus Rumble in Morton 127"
     },
     {
       "keywords": ["advising locations"],
       "answer": "Arts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
+    },
+    {
+      "keywords": ["a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising"],
+      "answer": "Arts and Science (A) has advising in Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211"
+    },
+    {
+      "keywords": ["b", "where is b", "business", "where is business", "b advising", "business advising"],
+      "answer": "Business (B) has advising in Tupper, rooms 301, 304, & 307"
+    },
+    {
+      "keywords": ["c", "where is c", "comms", "communications", "where is comms", "c advising", "comms advising"],
+      "answer": "Communications (C) has advising in Ellis, rooms 012, 013, 014, 015, & 019"
+    },
+    {
+      "keywords": ["d", "where is d", "education", "where is education", "d advising", "education advising"],
+      "answer": "Education (D) has advising in Patton 105"
+    },
+    {
+      "keywords": ["e", "where is e", "engineering", "russ", "where is engineering", "where is russ", "e advising", "engineering advising", "russ advising"],
+      "answer": "Engineering (E) has advising in Ellis, rooms 103, 106, 107, & 108"
+    },
+    {
+      "keywords": ["f", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising"],
+      "answer": "Fine Arts (F) has advising in Ellis 003, 006, 007, 008, & 009"
+    },
+    {
+      "keywords": ["g", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising"],
+      "answer": "Honors Tutorial College (G) has advising in Gordy, rooms 104, 109, 110, 111, & 203"
+    },
+    {
+      "keywords": ["h", "where is h", "health sciences", "where is health sciences", "h advising", "health sciences advising"],
+      "answer": "Health Sciences and Professions (H) has advising in Ellis, rooms 110, 114, 115"
+    },
+    {
+      "keywords": ["j", "where is j", "unc", "university college", "where is university college", "where is unc", "j advising", "university college advising", "unc advising"],
+      "answer": "University College (J) has advising in Tupper, rooms 101, 102, 104, & 107"
     },
     {
       "keywords": ["signs after belonging", "signs at breakout"],
