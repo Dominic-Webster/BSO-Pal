@@ -5,7 +5,11 @@
       "answer": "Hi! How can I be of assistance?"
     },
     {
-      "keywords": ["golf cart"],
+      "keywords": ["help"],
+      "answer": "How may I help?"
+    },
+    {
+      "keywords": ["golf cart", "golf", "cart"],
       "answer": "To notify the golf cart, call the BSO office: 740-593-1951"
     },
     {
@@ -70,7 +74,7 @@
     },
     {
       "keywords": ["advising locations"],
-      "answer": "Arts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
+      "answer": "ADVISING LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
     },
     {
       "keywords": ["a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising"],
@@ -109,8 +113,48 @@
       "answer": "University College (J) has advising in Tupper, rooms 101, 102, 104, & 107"
     },
     {
+      "keywords": ["whats a", "what is a"],
+      "answer": "A is Arts and Science"
+    },
+    {
+      "keywords": ["whats b", "what is b"],
+      "answer": "B is Business"
+    },
+    {
+      "keywords": ["whats c", "what is c"],
+      "answer": "C is Communications"
+    },
+    {
+      "keywords": ["whats d", "what is d"],
+      "answer": "D is Education"
+    },
+    {
+      "keywords": ["whats e", "what is e"],
+      "answer": "E is Engineering"
+    },
+    {
+      "keywords": ["whats f", "what is f"],
+      "answer": "F is Fine Arts"
+    },
+    {
+      "keywords": ["whats g", "what is g"],
+      "answer": "G is Honors Tutorial College"
+    },
+    {
+      "keywords": ["whats h", "what is h"],
+      "answer": "H is Health Sciences and Professions"
+    },
+    {
+      "keywords": ["whats j", "what is j"],
+      "answer": "J is University College"
+    },
+    {
       "keywords": ["signs after belonging", "signs at breakout"],
       "answer": "All color group signs go to Morton 122 after belonging"
+    },
+    {
+      "keywords": ["succeeding locations"],
+      "answer": "SUCCEEDING LOCATIONS:\nArts & Science (A): Clippinger 194\nBusiness (B): Copeland 104\nComms (C): Schoonover 145\nEducation (D): Patton 105\nEngineering (E): ARC 102\nFine Arts (F): Schoonover 145\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Schoonover 145"
     }
   ]
 }
