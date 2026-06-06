@@ -49,7 +49,7 @@
       "answer": "Gray group has belonging in Tupper 204, and Rufus Rumble in Morton 215"
     },
     {
-      "keywords": ["green", "green belonging", "green rufus rumble", "where is green"],
+      "keywords": ["green", "gre", "green belonging", "green rufus rumble", "where is green"],
       "answer": "Green group has belonging in RTV 267, and Rufus Rumble in Morton 222"
     },
     {
@@ -57,7 +57,7 @@
       "answer": "Lime group has belonging in Ellis 10 and 104, and Rufus Rumble in Morton 122"
     },
     {
-      "keywords": ["orange", "orange belonging", "orange rufus rumble", "where is orange"],
+      "keywords": ["orange", "oran", "orange belonging", "orange rufus rumble", "where is orange"],
       "answer": "Orange group has belonging in Tupper 304, and Rufus Rumble in Morton 218"
     },
     {
@@ -65,7 +65,7 @@
       "answer": "Pink group has belonging in RTV 281, and Rufus Rumble in Morton 226"
     },
     {
-      "keywords": ["purple", "purple belonging", "purple rufus rumble", "where is purple"],
+      "keywords": ["purple", "pur", "purple belonging", "purple rufus rumble", "where is purple"],
       "answer": "Purple group has belonging in Ellis 114 and 115, and Rufus Rumble in Morton 126"
     },
     {
@@ -77,7 +77,7 @@
       "answer": "Teal group has belonging in Tupper 104, and Rufus Rumble in Morton 227"
     },
     {
-      "keywords": ["yellow", "yellow belonging", "yellow rufus rumble", "where is yellow"],
+      "keywords": ["yellow", "yel", "yellow belonging", "yellow rufus rumble", "where is yellow"],
       "answer": "Yellow group has belonging in Tupper 107, and Rufus Rumble in Morton 127"
     },
     {
@@ -85,40 +85,40 @@
       "answer": "ADVISING LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
     },
     {
-      "keywords": ["a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising"],
-      "answer": "Arts and Science (A) has advising in Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211"
+      "keywords": ["a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising", "a and s", "a&s", "a succeeding", "arts and science succeeding"],
+      "answer": "ARTS AND SCIENCE (A)\n - Succeeding: Clippinger 194\n - Academic Essentials: Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211\n - Advising: Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211"
     },
     {
-      "keywords": ["b", "where is b", "business", "where is business", "b advising", "business advising"],
-      "answer": "Business (B) has advising in Tupper, rooms 301, 304, & 307"
+      "keywords": ["b", "where is b", "business", "busi", "where is business", "b advising", "business advising", "b succeeding", "business succeeding"],
+      "answer": "BUSINESS (B)\n - Succeeding: Copeland 104\n - Academic Essentials: Copeland 104\n - Advising: Tupper 301, 304, & 307"
     },
     {
-      "keywords": ["c", "where is c", "comms", "communications", "where is comms", "c advising", "comms advising"],
-      "answer": "Communications (C) has advising in Ellis, rooms 012, 013, 014, 015, & 019"
+      "keywords": ["c", "where is c", "comms", "communications", "where is comms", "c advising", "comms advising", "c succeeding", "comms succeeding"],
+      "answer": "COMMUNICATIONS (C)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 012, 013, 014, 015, & 019\n - Advising: Ellis 012, 013, 014, 015, & 019"
     },
     {
-      "keywords": ["d", "where is d", "education", "where is education", "d advising", "education advising"],
-      "answer": "Education (D) has advising in Patton 105"
+      "keywords": ["d", "where is d", "education", "where is education", "d advising", "education advising", "d succeeding", "education succeeding"],
+      "answer": "EDUCATION (D)\n - Succeeding: Patton 105\n - Academic Essentials: Patton 105\n - Advising: Tupper 002 & 005"
     },
     {
-      "keywords": ["e", "where is e", "engineering", "russ", "where is engineering", "where is russ", "e advising", "engineering advising", "russ advising"],
-      "answer": "Engineering (E) has advising in Ellis, rooms 103, 106, 107, & 108"
+      "keywords": ["e", "where is e", "engineering", "engin", "russ", "where is engineering", "where is russ", "e advising", "engineering advising", "russ advising", "russ succeeding", "e succeeding", "engineering succeeding"],
+      "answer": "ENGINEERING (E)\n - Succeeding: ARC 102\n - Academic Essentials: ARC 101, 102, 106, 121, 140, & 159\n - Advising: Ellis 103, 106, 107, & 108"
     },
     {
-      "keywords": ["f", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising"],
-      "answer": "Fine Arts (F) has advising in Ellis 003, 006, 007, 008, & 009"
+      "keywords": ["f", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising", "f succeeding", "cofa succeeding", "fine arts succeeding"],
+      "answer": "FINE ARTS (F)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 003, 006, 007, 008, & 009\n - Advising: Ellis 003, 006, 007, 008, & 009"
     },
     {
-      "keywords": ["g", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising"],
-      "answer": "Honors Tutorial College (G) has advising in Gordy, rooms 104, 109, 110, 111, & 203"
+      "keywords": ["g", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising", "g succeeding", "htc succeeding"],
+      "answer": "HONORS TUTORIAL COLLEGE (G)\n - Succeeding: Gordy 311\n - Academic Essentials: Gordy 311\n - Advising: Gordy 104, 109, 110, 111, & 203"
     },
     {
-      "keywords": ["h", "where is h", "health sciences", "where is health sciences", "h advising", "health sciences advising"],
-      "answer": "Health Sciences and Professions (H) has advising in Ellis, rooms 110, 114, 115"
+      "keywords": ["h", "where is h", "health sciences", "where is health sciences", "h advising", "health sciences advising", "h succeeding", "health sciences succeeding"],
+      "answer": "HEALTH SCIENCES AND PROFESSIONS (H)\n - Succeeding: Walter 135\n - Academic Essentials: Walter 135\n - Advising: Ellis 110, 114, 115"
     },
     {
-      "keywords": ["j", "where is j", "unc", "university college", "where is university college", "where is unc", "j advising", "university college advising", "unc advising"],
-      "answer": "University College (J) has advising in Tupper, rooms 101, 102, 104, & 107"
+      "keywords": ["j", "where is j", "unc", "university college", "where is university college", "where is unc", "j advising", "university college advising", "unc advising", "j succeeding", "unc succeeding"],
+      "answer": "UNIVERSITY COLLEGE (J)\n - Succeeding: Schoonover 145\n - Academic Essentials: Tupper 101, 102, 104, & 107\n - Advising: Tupper 101, 102, 104, & 107"
     },
     {
       "keywords": ["whats a", "what is a"],
