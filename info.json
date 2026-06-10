@@ -378,7 +378,7 @@
     },
     {
       "keywords": ["megan"],
-      "answer": "Megan:\n Position: CR\n Color Group: Orange\n College Group: D"
+      "answer": "Megan:\n Position: CR & BR\n Color Group: Orange\n College Group: D"
     },
     {
       "keywords": ["eddie"],
@@ -506,7 +506,51 @@
     },
     {
       "keywords": ["grads", "belle", "kayla", "lydia perry", "lydia ga", "gas", "parker"],
-      "answer": "Lydia: Pod A (OC: Casidy)\nBelle: Pod B (OC: Sage)\nKayla: Pod C (OC: Nina)\nParker: Pod D (OC: Ryan)"
+      "answer": "Lydia: Pod A (OC: Casidy)\nBelle: Pod B (OC: Sage)\nKayla: Pod C (OC: Nina)\nParker: Pod D (OC: Ryan)\nChloe: Mod Squad (OC: Sophia)"
+    },
+    {
+      "keywords": ["golf cost", "golf course"],
+      "answer": "GOLF COSTS:\n 9 holes: $16\n Full course: $25"
+    },
+    {
+      "keywords": ["whos in gray", "gray group", "gray members"],
+      "answer": "GRAY:\n Kurt (BR)\n Nina\n Maggie\n Lilli\n Dominic"
+    },
+    {
+      "keywords": ["whos in red", "red group", "red members"],
+      "answer": "RED:\n Lucy B (BR)\n Ryan\n Lucas\n Sam\n Anne\n Jay"
+    },
+    {
+      "keywords": ["whos in yellow", "yellow group", "yellow members"],
+      "answer": "YELLOW:\n Emma (BR)\n Amy\n Ethan\n Clara\n AJ"
+    },
+    {
+      "keywords": ["whos in lime", "lime group", "lime members"],
+      "answer": "LIME:\n Katie (BR)\n Casidy\n Hank\n Erin\n Eddie\n Morgan Stricklen"
+    },
+    {
+      "keywords": ["whos in teal", "teal group", "teal members"],
+      "answer": "TEAL:\n Elyse (BR)\n Nate\n Alexis\n Mariah\n Ian"
+    },
+    {
+      "keywords": ["whos in green", "green group", "green members"],
+      "answer": "GREEN:\n Max (BR)\n Lucy C\n Alexa\n Melody\n Sydney\n Sophia"
+    },
+    {
+      "keywords": ["whos in orange", "orange group", "orange members"],
+      "answer": "ORANGE:\n Megan (BR)\n Chloe B\n Izzy\n Hannah\n Maddie"
+    },
+    {
+      "keywords": ["whos in purple", "purple group", "purple members"],
+      "answer": "PURPLE:\n Morgan Spence (BR)\n Claudia\n Tyler\n Taylor\n Hanna"
+    },
+    {
+      "keywords": ["whos in pink", "pink group", "pink members"],
+      "answer": "PINK:\n Eddy (BR)\n Cameron (BR)\n Riley\n Oscar\n Lydia S\n Cameran"
+    },
+    {
+      "keywords": ["whos in blue", "blue group", "blue members"],
+      "answer": "BLUE:\n Kat (BR)\n Bella\n Sage\n Lily L\n Lily M"
     }
   ]
 }
