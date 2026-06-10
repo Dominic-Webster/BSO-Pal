@@ -185,7 +185,7 @@
       "answer": "Belonging takes place Day 1 from 1:50 to 3:35"
     },
     {
-      "keywords": ["does parker dye his hair", "parker"],
+      "keywords": ["does parker dye his hair"],
       "answer": "Yes, Parker dyes his hair red"
     },
     {
@@ -397,7 +397,7 @@
       "answer": "Izzy:\n Position: OL\n Color Group: Orange\n College Groups: G & H"
     },
     {
-      "keywords": ["lily m"],
+      "keywords": ["lily m", "lilypad"],
       "answer": "Lily M:\n Position: OL\n Color Group: Blue\n College Group: A"
     },
     {
@@ -503,6 +503,10 @@
     {
       "keywords": ["morgan"],
       "answer": "Morgan Spence: Purple / B\nMorgan Stricklen: Lime / D"
+    },
+    {
+      "keywords": ["grads", "belle", "kayla", "lydia perry", "lydia ga", "gas", "parker"],
+      "answer": "Lydia: Pod A (OC: Casidy)\nBelle: Pod B (OC: Sage)\nKayla: Pod C (OC: Nina)\nParker: Pod D (OC: Ryan)"
     }
   ]
 }
