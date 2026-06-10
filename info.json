@@ -271,6 +271,238 @@
     {
       "keywords": ["family and guest schedule", "family", "guest"],
       "answer": "FAMILY AND GUEST SCHEDULE:\n DAY 1:\n - BSO Welcome: 1:00-1:50 at Memorial Auditorium\n - Helping your Student Thrive: 2:05-2:30 at Memorial Auditorium\n - Campus Safety and Support Panel: 2:30-3:05 at Memorial Auditorium\n - Understanding FERPA: 3:15-3:30 at Memorial Auditorium\n - Breakout Sessions: 3:50-5:20 at Morton Hall\n - Dinner: 5:20-6:30 at Nelson\n - Dessert Reception: 6:30-7:30 at 29 Park Place\n - Family Programming: 8:00 at Lincoln Hall\n\n DAY 2:\n - Move-Out: 6:30-8:00\n - Breakfast: 7:00-8:15 at Nelson\n - Academic College Sessions: 8:30-9:20 at various locations\n - What Does OHIO Have to Offer: 9:40-10:20 at Memorial Auditorium\n - WIWMFK: 10:20-10:50 at Memorial Auditorium\n - Family to Family: 10:55-11:40 at Memorial Auditorium\n - Lunch: 11:40-12:55 at Nelson\n - Paying For College: 1:10-1:50 at Memorial Auditorium\n - Next Steps Panel: 2:00-2:30 at Memorial Auditorium\n - Beyond BSO: 2:30-3:00 at Memorial Auditorium"
+    },
+    {
+      "keywords": ["uniform"],
+      "answer": "DAY 1:\n - Polo's until dinner (unless on Thriving)\n - Striped shirt after\n\nDAY 2: - Other shirt"
+    },
+    {
+      "keywords": ["lucy b", "lucy becker", "lucy j"],
+      "answer": "Lucy J Becker:\n Position: BR\n Color Group: Red\n College Groups: G & H"
+    },
+    {
+      "keywords": ["elyse", "elise"],
+      "answer": "Elyse:\n Position: BR\n Color Group: Teal\n College Group: F"
+    },
+    {
+      "keywords": ["chloe b", "chloe brooks"],
+      "answer": "Chloe B:\n Position: OL\n Color Group: Orange\n College Group: C"
+    },
+    {
+      "keywords": ["lucas"],
+      "answer": "Lucas:\n Position: OL\n Color Group: Red\n College Group: J"
+    },
+    {
+      "keywords": ["hank"],
+      "answer": "Hank:\n Position: OL\n Color Group: Lime\n College Group: B"
+    },
+    {
+      "keywords": ["erin"],
+      "answer": "Erin:\n Position: OL\n Color Group: Lime\n College Group: H"
+    },
+    {
+      "keywords": ["kat"],
+      "answer": "Dominic:\n Position: BR\n Color Group: Blue\n College Group: C"
+    },
+    {
+      "keywords": ["casidy"],
+      "answer": "Casidy:\n Position: OC (Pod A)\n Color Group: Lime"
+    },
+    {
+      "keywords": ["lucy c", "lucy cotter", "lucyle"],
+      "answer": "Lucy C:\n Position: OL\n Color Group: Green\n College Group: C"
+    },
+    {
+      "keywords": ["ryan"],
+      "answer": "Ryan:\n Position: OC (Pod D)\n Color Group: Red"
+    },
+    {
+      "keywords": ["bella"],
+      "answer": "Bella:\n Position: OL\n Color Group: Blue\n College Group: C"
+    },
+    {
+      "keywords": ["amy"],
+      "answer": "Amy:\n Position: OL\n Color Group: Yellow\n College Group: C"
+    },
+    {
+      "keywords": ["nina", "angelina"],
+      "answer": "Angelina:\n Position: OC (Pod C)\n Color Group: Gray"
+    },
+    {
+      "keywords": ["katie", "katelynn"],
+      "answer": "Katie:\n Position: BR\n Color Group: Lime\n College Group: H"
+    },
+    {
+      "keywords": ["claudia"],
+      "answer": "Claudia:\n Position: OL\n Color Group: Purple\n College Group: F"
+    },
+    {
+      "keywords": ["tyler"],
+      "answer": "Tyler:\n Position: CR\n Color Group: Purple\n College Group: F"
+    },
+    {
+      "keywords": ["alexa"],
+      "answer": "Alexa:\n Position: OL\n Color Group: Green\n College Group: H"
+    },
+    {
+      "keywords": ["emma"],
+      "answer": "Emma:\n Position: BR\n Color Group: Yellow\n College Group: J"
+    },
+    {
+      "keywords": ["sage"],
+      "answer": "Sage:\n Position: OC (Pod B)\n Color Group: Blue"
+    },
+    {
+      "keywords": ["nate"],
+      "answer": "Nate:\n Position: BR\n Color Group: Teal\n College Group: B"
+    },
+    {
+      "keywords": ["lily l"],
+      "answer": "Lily L:\n Position: OL\n Color Group: Blue\n College Group: A"
+    },
+    {
+      "keywords": ["dominic", "dom"],
+      "answer": "Dominic:\n Position: OL\n Color Group: Gray\n College Group: E"
+    },
+    {
+      "keywords": ["ethan", "stone", "hello?"],
+      "answer": "Ethan:\n Position: CR\n Color Group: Yellow\n College Group: E"
+    },
+    {
+      "keywords": ["sam", "samantha"],
+      "answer": "Sam:\n Position: CR\n Color Group: Red\n College Groups: E & G"
+    },
+    {
+      "keywords": ["kurt", "kurtis"],
+      "answer": "Kurt:\n Position: BR\n Color Group: Gray\n College Group: D"
+    },
+    {
+      "keywords": ["megan"],
+      "answer": "Megan:\n Position: CR\n Color Group: Orange\n College Group: D"
+    },
+    {
+      "keywords": ["eddie"],
+      "answer": "Eddie:\n Position: BR\n Color Group: Lime\n College Group: C"
+    },
+    {
+      "keywords": ["eddy"],
+      "answer": "Eddy:\n Position: BR\n Color Group: Pink\n College Group: B"
+    },
+    {
+      "keywords": ["melody"],
+      "answer": "Melody:\n Position: OL\n Color Group: Green\n College Group: H"
+    },
+    {
+      "keywords": ["izzy"],
+      "answer": "Izzy:\n Position: OL\n Color Group: Orange\n College Groups: G & H"
+    },
+    {
+      "keywords": ["lily m"],
+      "answer": "Lily M:\n Position: OL\n Color Group: Blue\n College Group: A"
+    },
+    {
+      "keywords": ["taylor m"],
+      "answer": "Taylor M:\n Position: OL\n Color Group: Purple\n College Group: B"
+    },
+    {
+      "keywords": ["anne", "annmarie"],
+      "answer": "Anne:\n Position: CR\n Color Group: Red\n College Group: A"
+    },
+    {
+      "keywords": ["aries"],
+      "answer": "Aries:\n Position: CR\n Color Group: Blue\n College Group: H"
+    },
+    {
+      "keywords": ["cameron"],
+      "answer": "Cameron:\n Position: BR\n Color Group: Pink\n College Group: A"
+    },
+    {
+      "keywords": ["hanna"],
+      "answer": "Hanna:\n Position: OL\n Color Group: Purple\n College Group: F"
+    },
+    {
+      "keywords": ["oscar"],
+      "answer": "Oscar:\n Position: OL\n Color Group: Pink\n College Group: A"
+    },
+    {
+      "keywords": ["Ian"],
+      "answer": "Ian Robert Henry Sloan:\n Position: OL\n Color Group: Teal\n College Group: E"
+    },
+    {
+      "keywords": ["hannah"],
+      "answer": "Hannah:\n Position: OL\n Color Group: Orange\n College Group: E"
+    },
+    {
+      "keywords": ["morgan spence"],
+      "answer": "Morgan Spence:\n Position: BR\n Color Group: Purple\n College Group: B"
+    },
+    {
+      "keywords": ["alexis"],
+      "answer": "Alexis:\n Position: CR\n Color Group: Teal\n College Group: J"
+    },
+    {
+      "keywords": ["lilli"],
+      "answer": "Lilli:\n Position: OL\n Color Group: Gray\n College Group: J"
+    },
+    {
+      "keywords": ["maggie"],
+      "answer": "Maggie:\n Position: OL\n Color Group: Gray\n College Group: A"
+    },
+    {
+      "keywords": ["cameran"],
+      "answer": "Cameran:\n Position: OL\n Color Group: Pink\n College Group: D"
+    },
+    {
+      "keywords": ["morgan stricklen"],
+      "answer": "Morgan Stricklen:\n Position: OL\n Color Group: Lime\n College Group: D"
+    },
+    {
+      "keywords": ["clara"],
+      "answer": "Clara:\n Position: OL\n Color Group: Yellow\n College Group: D"
+    },
+    {
+      "keywords": ["sydney"],
+      "answer": "Sydney:\n Position: OL\n Color Group: Green\n College Group: E"
+    },
+    {
+      "keywords": ["lydia"],
+      "answer": "Lydia Shields:\n Position: OL\n Color Group: Pink\n College Group: J"
+    },
+    {
+      "keywords": ["max"],
+      "answer": "Max:\n Position: BR\n Color Group: Green\n College Group: J"
+    },
+    {
+      "keywords": ["mariah"],
+      "answer": "Mariah:\n Position: OL\n Color Group: Teal\n College Group: D"
+    },
+    {
+      "keywords": ["sophia"],
+      "answer": "Sophia:\n Position: OC (Mod Squad)\n Color Group: Green"
+    },
+    {
+      "keywords": ["aj"],
+      "answer": "AJ:\n Position: OL\n Color Group: Yellow\n College Group: F"
+    },
+    {
+      "keywords": ["jay"],
+      "answer": "Jay:\n Position: OL\n Color Group: Red\n College Group: F"
+    },
+    {
+      "keywords": ["madeline, maddie"],
+      "answer": "Maddie:\n Position: OL\n Color Group: Orange\n College Group: H"
+    },
+    {
+      "keywords": ["riley"],
+      "answer": "Riley:\n Position: OL\n Color Group: Pink\n College Group: B"
+    },
+    {
+      "keywords": ["lily"],
+      "answer": "Lily L: Blue / A\nLily M: Blue / A"
+    },
+    {
+      "keywords": ["morgan"],
+      "answer": "Morgan Spence: Purple / B\nMorgan Stricklen: Lime / D"
     }
   ]
 }
