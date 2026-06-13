@@ -6,7 +6,7 @@
     },
     {
       "keywords": ["menu"],
-      "answer": "MENU\n (1): Color Group Members\n (2): Color Group Locations\n (3): College Group Members\n (4): College Group Locations"
+      "answer": "MENU\n (1): Color Group Members\n (2): Color Group Locations\n (3): College Group Members\n (4): College Group Locations\n (5): Location List"
     },
     {
       "keywords": ["1"],
@@ -23,6 +23,10 @@
     {
       "keywords": ["4"],
       "answer": "COLLEGE GROUP LOCATIONS\n (4A): A&S\n (4B): COB\n (4C): COMS\n (4D): PATTON\n (4E): RUSS\n (4F): COFA\n (4G): HTC\n (4H): HS&P\n (4J): UNC"
+    },
+    {
+      "keywords": ["5"],
+      "answer": "LOCATION LIST\n (5A): Belonging\n (5B): Rufus Rumble\n (5C): Succeeding\n (5D): Academic Essentials\n (5E): Owning\n (5F): Advising\n (5G): Family Academic Sessions"
     },
     {
       "keywords": ["what do you do"],
@@ -57,11 +61,11 @@
       "answer": "BSO Email: orientation@ohio.edu"
     },
     {
-      "keywords": ["belonging locations", "belonging", "belong"],
+      "keywords": ["5a", "belonging locations", "belonging", "belong"],
       "answer": "BELONGING LOCATIONS:\nBlue: Ellis 013 & 014\nGray: Tupper 204\nGreen: RTV 267\nLime: Ellis 103 & 106\nOrange: Tupper 304\nPink: RTV 281\nPurple: Ellis 114 & 115\nRed: RTV 265\nTeal: Tupper 104\nYellow: Tupper 107"
     },
     {
-      "keywords": ["rufus rumble locations", "rufus rumble"],
+      "keywords": ["5b", "rufus rumble locations", "rufus rumble"],
       "answer": "RUFUS RUMBLE LOCATIONS:\nBlue: Morton 115\nGray: Morton 215\nGreen: Morton 222\nLime: Morton 122\nOrange: Morton 218\nPink: Morton 226\nPurple: Morton 126\nRed: Morton 219\nTeal: Morton 227\nYellow: Morton 127"
     },
     {
@@ -105,7 +109,7 @@
       "answer": "Yellow group has belonging in Tupper 107, and Rufus Rumble in Morton 127"
     },
     {
-      "keywords": ["advising locations"],
+      "keywords": ["5f", "advising locations"],
       "answer": "ADVISING LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
     },
     {
@@ -185,11 +189,11 @@
       "answer": "All color group signs go to Morton 122 after belonging"
     },
     {
-      "keywords": ["succeeding locations"],
+      "keywords": ["5c", "succeeding locations"],
       "answer": "SUCCEEDING LOCATIONS:\nArts & Science (A): Clippinger 194\nBusiness (B): Copeland 104\nComms (C): Schoonover 145\nEducation (D): Patton 105\nEngineering (E): ARC 102\nFine Arts (F): Schoonover 145\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Schoonover 145"
     },
     {
-      "keywords": ["academic essentials locations", "academic essentials"],
+      "keywords": ["5d", "academic essentials locations", "academic essentials"],
       "answer": "ACADEMIC ESSENTIALS LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Copeland 104\nComms (C): Ellis 0th floor\nEducation (D): Patton 105\nEngineering (E): ARC 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Tupper 1st floor"
     },
     {
@@ -265,8 +269,12 @@
       "answer": "Succeeding takes place on Day 2 from 8:25 to 9:25"
     },
     {
-      "keywords": ["owning time", "when is owning", "own", "owning"],
+      "keywords": ["owning time", "when is owning"],
       "answer": "Owning takes place on Day 2 from 11:05 to 11:45"
+    },
+    {
+      "keywords": ["5e", "own", "owning", "owning location"],
+      "answer": "OWNING LOCATIONS:\n Arts & Science (A): Gordy 2nd floor\n Business (B): Copeland 104\n Comms (C): Ellis 0th floor\n Education (D): Patton 105\n Engineering (E): ARC 1st floor\n Fine Arts (F): Ellis 0th floor\n HTC (G): Gordy 311\n Health Sciences & Proffesions (H): Walter 135\n University College (J): Tupper 1st floor"
     },
     {
       "keywords": ["advising time", "when is advising"],
@@ -281,7 +289,7 @@
       "answer": "BSO Blast takes place on Day 1, from 8:30 to 10:00"
     },
     {
-      "keywords": ["academic college sessions", "family college", "guest college", "family academic essentials"],
+      "keywords": ["5g", "academic college sessions", "family college", "guest college", "family academic essentials"],
       "answer": "ACADEMIC COLLEGE SESSIONS FOR FAMILY/GUESTS:\n - A: Morton 201\n - B: Morton 235\n - C: Morton 127\n - D: Morton 122\n - E: Morton 218\n - E4 & E5 (Aviation): Morton 219\n - F: Morton 215\n - G: Morton 115\n - H: Morton 237\n - J: Morton 227"
     },
     {
