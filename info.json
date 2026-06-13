@@ -513,44 +513,80 @@
       "answer": "GOLF COSTS:\n 9 holes: $16\n Full course: $25"
     },
     {
-      "keywords": ["whos in gray", "gray group", "gray members"],
+      "keywords": ["in gray", "whos in gray", "gray group", "gray members"],
       "answer": "GRAY:\n Kurt (BR)\n Nina\n Maggie\n Lilli\n Dominic"
     },
     {
-      "keywords": ["whos in red", "red group", "red members"],
+      "keywords": ["in red", "whos in red", "red group", "red members"],
       "answer": "RED:\n Lucy B (BR)\n Ryan\n Lucas\n Sam\n Anne\n Jay"
     },
     {
-      "keywords": ["whos in yellow", "yellow group", "yellow members"],
+      "keywords": ["in yellow", "whos in yellow", "yellow group", "yellow members"],
       "answer": "YELLOW:\n Emma (BR)\n Amy\n Ethan\n Clara\n AJ"
     },
     {
-      "keywords": ["whos in lime", "lime group", "lime members"],
+      "keywords": ["in lime", "whos in lime", "lime group", "lime members"],
       "answer": "LIME:\n Katie (BR)\n Casidy\n Hank\n Erin\n Eddie\n Morgan Stricklen"
     },
     {
-      "keywords": ["whos in teal", "teal group", "teal members"],
+      "keywords": ["in teal", "whos in teal", "teal group", "teal members"],
       "answer": "TEAL:\n Elyse (BR)\n Nate\n Alexis\n Mariah\n Ian"
     },
     {
-      "keywords": ["whos in green", "green group", "green members"],
+      "keywords": ["in green", "whos in green", "green group", "green members"],
       "answer": "GREEN:\n Max (BR)\n Lucy C\n Alexa\n Melody\n Sydney\n Sophia"
     },
     {
-      "keywords": ["whos in orange", "orange group", "orange members"],
+      "keywords": ["in orange", "whos in orange", "orange group", "orange members"],
       "answer": "ORANGE:\n Megan (BR)\n Chloe B\n Izzy\n Hannah\n Maddie"
     },
     {
-      "keywords": ["whos in purple", "purple group", "purple members"],
+      "keywords": ["in purple", "whos in purple", "purple group", "purple members"],
       "answer": "PURPLE:\n Morgan Spence (BR)\n Claudia\n Tyler\n Taylor\n Hanna"
     },
     {
-      "keywords": ["whos in pink", "pink group", "pink members"],
+      "keywords": ["in pink", "whos in pink", "pink group", "pink members"],
       "answer": "PINK:\n Eddy (BR)\n Cameron (BR)\n Riley\n Oscar\n Lydia S\n Cameran"
     },
     {
-      "keywords": ["whos in blue", "blue group", "blue members"],
+      "keywords": ["in blue", "whos in blue", "blue group", "blue members"],
       "answer": "BLUE:\n Kat (BR)\n Bella\n Sage\n Lily L\n Lily M"
+    },
+    {
+      "keywords": ["in a", "whos in a", "a group", "a members", "in arts", "whos in arts", "arts group", "arts members"],
+      "answer": "A&S:\n Anne (CR)\n Cameron\n Oscar\n Lily L\n Lily M\n Maggie"
+    },
+    {
+      "keywords": ["in b", "whos in b", "b group", "b members", "in business", "whos in business", "business group", "business members"],
+      "answer": "COB:\n Nate (CR)\n Hank\n Riley\n Eddy\n Taylor\n Morgan Spence"
+    },
+    {
+      "keywords": ["in c", "whos in c", "c group", "c members", "in comms", "whos in comms", "comms group", "comms members"],
+      "answer": "COMMS:\n Eddie (CR)\n Amy\n Chloe B\n Kat\n Lucy C\n Bella"
+    },
+    {
+      "keywords": ["in d", "whos in d", "d group", "d members", "in education", "whos in education", "education group", "education members"],
+      "answer": "EDUCATION:\n Megan (CR)\n Kurt\n Clara\n Cameran\n Morgan Stricklen\n Mariah"
+    },
+    {
+      "keywords": ["in e", "whos in e", "e group", "e members", "in engineering", "whos in engineering", "engineering group", "engineering members"],
+      "answer": "ENGINEERING:\n Ethan (CR)\n Ian\n Hannah\n Sydney\n Sam\n Dominic"
+    },
+    {
+      "keywords": ["in f", "whos in f", "f group", "f members", "in fine", "whos in fine", "fine group", "fine members"],
+      "answer": "FINE ARTS:\n Tyler (CR)\n Elyse\n Jay\n Claudia\n Hanna\n AJ"
+    },
+    {
+      "keywords": ["in g", "whos in g", "g group", "g members", "in htc", "whos in htc", "htc group", "htc members"],
+      "answer": "HTC:\n Sam (CR)\n Izzy\n Lucy B"
+    },
+    {
+      "keywords": ["in h", "whos in h", "h group", "h members", "in health", "whos in health", "health group", "health members"],
+      "answer": "HSP:\n Aries (CR)\n Lucy B\n Erin\n Katie\n Alexa\n Melody\n Maddie"
+    },
+    {
+      "keywords": ["in j", "whos in j", "j group", "j members", "in unc", "whos in unc", "unc group", "unc members"],
+      "answer": "UNC:\n Alexis (CR)\n Lucas\n Emma\n Izzy\n Lydia\n Lilli\n Max"
     }
   ]
 }
