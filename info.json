@@ -5,8 +5,28 @@
       "answer": "Hi! How can I be of assistance?"
     },
     {
+      "keywords": ["menu"],
+      "answer": "MENU\n (1): Color Group Members\n (2): Color Group Locations\n (3): College Group Members\n (4): College Group Locations"
+    },
+    {
+      "keywords": ["1"],
+      "answer": "COLOR GROUP MEMBERS\n (1A): Blue\n (1B): Gray\n (1C): Green\n (1D): Lime\n (1E): Orange\n (1F): Pink\n (1G): Purple\n (1H): Red\n (1I): Teal\n (1J): Yellow"
+    },
+    {
+      "keywords": ["2"],
+      "answer": "COLOR GROUP LOCATIONS\n (2A): Blue\n (2B): Gray\n (2C): Green\n (2D): Lime\n (2E): Orange\n (2F): Pink\n (2G): Purple\n (2H): Red\n (2I): Teal\n (2J): Yellow"
+    },
+    {
+      "keywords": ["3"],
+      "answer": "COLLEGE GROUP MEMBERS\n (3A): A&S\n (3B): COB\n (3C): COMS\n (3D): PATTON\n (3E): RUSS\n (3F): COFA\n (3G): HTC\n (3H): HS&P\n (3J): UNC"
+    },
+    {
+      "keywords": ["4"],
+      "answer": "COLLEGE GROUP LOCATIONS\n (4A): A&S\n (4B): COB\n (4C): COMS\n (4D): PATTON\n (4E): RUSS\n (4F): COFA\n (4G): HTC\n (4H): HS&P\n (4J): UNC"
+    },
+    {
       "keywords": ["what do you do"],
-      "answer": "My capabilities include:\n - Color group locations\n - College group loactions\n - Breakout session info \n - Schedule event times/locations"
+      "answer": "My capabilities include:\n - Color group locations\n - College group loactions\n - OL intel \n - Breakout session info \n - Schedule event times/locations"
     },
     {
       "keywords": ["help"],
@@ -45,43 +65,43 @@
       "answer": "RUFUS RUMBLE LOCATIONS:\nBlue: Morton 115\nGray: Morton 215\nGreen: Morton 222\nLime: Morton 122\nOrange: Morton 218\nPink: Morton 226\nPurple: Morton 126\nRed: Morton 219\nTeal: Morton 227\nYellow: Morton 127"
     },
     {
-      "keywords": ["blue", "blu", "blue belonging", "blue rufus rumble", "where is blue"],
+      "keywords": ["2a", "blue", "blu", "blue belonging", "blue rufus rumble", "where is blue"],
       "answer": "Blue group has belonging in Ellis 013 and 014, and Rufus Rumble in Morton 115"
     },
     {
-      "keywords": ["gray", "grey", "grey belonging", "gray belonging", "gray rufus rumble", "grey rufus rumble", "where is gray", "where is grey"],
+      "keywords": ["2b", "gray", "grey", "grey belonging", "gray belonging", "gray rufus rumble", "grey rufus rumble", "where is gray", "where is grey"],
       "answer": "Gray group has belonging in Tupper 204, and Rufus Rumble in Morton 215"
     },
     {
-      "keywords": ["green", "gre", "green belonging", "green rufus rumble", "where is green"],
+      "keywords": ["2c", "green", "gre", "green belonging", "green rufus rumble", "where is green"],
       "answer": "Green group has belonging in RTV 267, and Rufus Rumble in Morton 222"
     },
     {
-      "keywords": ["lime", "lime belonging", "lime rufus rumble", "where is lime"],
+      "keywords": ["2d", "lime", "lime belonging", "lime rufus rumble", "where is lime"],
       "answer": "Lime group has belonging in Ellis 10 and 104, and Rufus Rumble in Morton 122"
     },
     {
-      "keywords": ["orange", "oran", "orange belonging", "orange rufus rumble", "where is orange"],
+      "keywords": ["2e", "orange", "oran", "orange belonging", "orange rufus rumble", "where is orange"],
       "answer": "Orange group has belonging in Tupper 304, and Rufus Rumble in Morton 218"
     },
     {
-      "keywords": ["pink", "pink belonging", "pink rufus rumble", "where is pink"],
+      "keywords": ["2f", "pink", "pink belonging", "pink rufus rumble", "where is pink"],
       "answer": "Pink group has belonging in RTV 281, and Rufus Rumble in Morton 226"
     },
     {
-      "keywords": ["purple", "pur", "purple belonging", "purple rufus rumble", "where is purple"],
+      "keywords": ["2g", "purple", "pur", "purple belonging", "purple rufus rumble", "where is purple"],
       "answer": "Purple group has belonging in Ellis 114 and 115, and Rufus Rumble in Morton 126"
     },
     {
-      "keywords": ["red", "red belonging", "red rufus rumble", "where is red"],
+      "keywords": ["2h", "red", "red belonging", "red rufus rumble", "where is red"],
       "answer": "Red group has belonging in RTV 265, and Rufus Rumble in Morton 219"
     },
     {
-      "keywords": ["teal", "teal belonging", "teal rufus rumble", "where is teal"],
+      "keywords": ["2i", "teal", "teal belonging", "teal rufus rumble", "where is teal"],
       "answer": "Teal group has belonging in Tupper 104, and Rufus Rumble in Morton 227"
     },
     {
-      "keywords": ["yellow", "yel", "yellow belonging", "yellow rufus rumble", "where is yellow"],
+      "keywords": ["2j", "yellow", "yel", "yellow belonging", "yellow rufus rumble", "where is yellow"],
       "answer": "Yellow group has belonging in Tupper 107, and Rufus Rumble in Morton 127"
     },
     {
@@ -89,39 +109,39 @@
       "answer": "ADVISING LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
     },
     {
-      "keywords": ["a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising", "a and s", "a&s", "a succeeding", "arts and science succeeding"],
+      "keywords": ["4a", "a", "where is a", "arts and science", "where is arts and science", "a advising", "arts and science advising", "a and s", "a&s", "a succeeding", "arts and science succeeding"],
       "answer": "ARTS AND SCIENCE (A)\n - Succeeding: Clippinger 194\n - Academic Essentials: Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211\n - Advising: Gordy. Groups A1, A2, & A4 are in rooms 201 & 202. Groups A3, A5, A6, & A7 are in rooms 209, 210, & 211"
     },
     {
-      "keywords": ["b", "where is b", "business", "busi", "where is business", "b advising", "business advising", "b succeeding", "business succeeding"],
+      "keywords": ["4b", "b", "where is b", "business", "busi", "where is business", "b advising", "business advising", "b succeeding", "business succeeding"],
       "answer": "BUSINESS (B)\n - Succeeding: Copeland 104\n - Academic Essentials: Copeland 104\n - Advising: Tupper 301, 304, & 307"
     },
     {
-      "keywords": ["c", "where is c", "comms", "communications", "where is comms", "c advising", "comms advising", "c succeeding", "comms succeeding"],
+      "keywords": ["4c", "c", "where is c", "comms", "communications", "where is comms", "c advising", "comms advising", "c succeeding", "comms succeeding"],
       "answer": "COMMUNICATIONS (C)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 012, 013, 014, 015, & 019\n - Advising: Ellis 012, 013, 014, 015, & 019"
     },
     {
-      "keywords": ["d", "ed", "where is d", "education", "where is education", "d advising", "education advising", "d succeeding", "education succeeding"],
+      "keywords": ["4d", "d", "ed", "where is d", "education", "where is education", "d advising", "education advising", "d succeeding", "education succeeding"],
       "answer": "EDUCATION (D)\n - Succeeding: Patton 105\n - Academic Essentials: Patton 105\n - Advising: Tupper 002 & 005"
     },
     {
-      "keywords": ["e", "where is e", "engineering", "engin", "russ", "where is engineering", "where is russ", "e advising", "engineering advising", "russ advising", "russ succeeding", "e succeeding", "engineering succeeding"],
+      "keywords": ["4e", "e", "where is e", "engineering", "engin", "russ", "where is engineering", "where is russ", "e advising", "engineering advising", "russ advising", "russ succeeding", "e succeeding", "engineering succeeding"],
       "answer": "ENGINEERING (E)\n - Succeeding: ARC 102\n - Academic Essentials: ARC 101, 102, 106, 121, 140, & 159\n - Advising: Ellis 103, 106, 107, & 108"
     },
     {
-      "keywords": ["f", "farts", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising", "f succeeding", "cofa succeeding", "fine arts succeeding"],
+      "keywords": ["4f", "f", "farts", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising", "f succeeding", "cofa succeeding", "fine arts succeeding"],
       "answer": "FINE ARTS (F)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 003, 006, 007, 008, & 009\n - Advising: Ellis 003, 006, 007, 008, & 009"
     },
     {
-      "keywords": ["g", "honors", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising", "g succeeding", "htc succeeding"],
+      "keywords": ["4g", "g", "honors", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising", "g succeeding", "htc succeeding"],
       "answer": "HONORS TUTORIAL COLLEGE (G)\n - Succeeding: Gordy 311\n - Academic Essentials: Gordy 311\n - Advising: Gordy 104, 109, 110, 111, & 203"
     },
     {
-      "keywords": ["h", "where is h", "health sciences", "where is health sciences", "h advising", "health sciences advising", "h succeeding", "health sciences succeeding"],
+      "keywords": ["4h", "h", "where is h", "health sciences", "where is health sciences", "h advising", "health sciences advising", "h succeeding", "health sciences succeeding"],
       "answer": "HEALTH SCIENCES AND PROFESSIONS (H)\n - Succeeding: Walter 135\n - Academic Essentials: Walter 135\n - Advising: Ellis 110, 114, 115"
     },
     {
-      "keywords": ["j", "where is j", "unc", "university college", "where is university college", "where is unc", "j advising", "university college advising", "unc advising", "j succeeding", "unc succeeding"],
+      "keywords": ["4j", "j", "where is j", "unc", "university college", "where is university college", "where is unc", "j advising", "university college advising", "unc advising", "j succeeding", "unc succeeding"],
       "answer": "UNIVERSITY COLLEGE (J)\n - Succeeding: Schoonover 145\n - Academic Essentials: Tupper 101, 102, 104, & 107\n - Advising: Tupper 101, 102, 104, & 107"
     },
     {
@@ -261,7 +281,7 @@
       "answer": "BSO Blast takes place on Day 1, from 8:30 to 10:00"
     },
     {
-      "keywords": ["academic college sessions", "family college", "guest college"],
+      "keywords": ["academic college sessions", "family college", "guest college", "family academic essentials"],
       "answer": "ACADEMIC COLLEGE SESSIONS FOR FAMILY/GUESTS:\n - A: Morton 201\n - B: Morton 235\n - C: Morton 127\n - D: Morton 122\n - E: Morton 218\n - E4 & E5 (Aviation): Morton 219\n - F: Morton 215\n - G: Morton 115\n - H: Morton 237\n - J: Morton 227"
     },
     {
@@ -513,79 +533,79 @@
       "answer": "GOLF COSTS:\n 9 holes: $16\n Full course: $25"
     },
     {
-      "keywords": ["in gray", "whos in gray", "gray group", "gray members"],
+      "keywords": ["1b", "in gray", "whos in gray", "gray group", "gray members"],
       "answer": "GRAY:\n Kurt (BR)\n Nina\n Maggie\n Lilli\n Dominic"
     },
     {
-      "keywords": ["in red", "whos in red", "red group", "red members"],
+      "keywords": ["1h", "in red", "whos in red", "red group", "red members"],
       "answer": "RED:\n Lucy B (BR)\n Ryan\n Lucas\n Sam\n Anne\n Jay"
     },
     {
-      "keywords": ["in yellow", "whos in yellow", "yellow group", "yellow members"],
+      "keywords": ["1j", "in yellow", "whos in yellow", "yellow group", "yellow members"],
       "answer": "YELLOW:\n Emma (BR)\n Amy\n Ethan\n Clara\n AJ"
     },
     {
-      "keywords": ["in lime", "whos in lime", "lime group", "lime members"],
+      "keywords": ["1d", "in lime", "whos in lime", "lime group", "lime members"],
       "answer": "LIME:\n Katie (BR)\n Casidy\n Hank\n Erin\n Eddie\n Morgan Stricklen"
     },
     {
-      "keywords": ["in teal", "whos in teal", "teal group", "teal members"],
+      "keywords": ["1i", "in teal", "whos in teal", "teal group", "teal members"],
       "answer": "TEAL:\n Elyse (BR)\n Nate\n Alexis\n Mariah\n Ian"
     },
     {
-      "keywords": ["in green", "whos in green", "green group", "green members"],
+      "keywords": ["1c", "in green", "whos in green", "green group", "green members"],
       "answer": "GREEN:\n Max (BR)\n Lucy C\n Alexa\n Melody\n Sydney\n Sophia"
     },
     {
-      "keywords": ["in orange", "whos in orange", "orange group", "orange members"],
+      "keywords": ["1e", "in orange", "whos in orange", "orange group", "orange members"],
       "answer": "ORANGE:\n Megan (BR)\n Chloe B\n Izzy\n Hannah\n Maddie"
     },
     {
-      "keywords": ["in purple", "whos in purple", "purple group", "purple members"],
+      "keywords": ["1g", "in purple", "whos in purple", "purple group", "purple members"],
       "answer": "PURPLE:\n Morgan Spence (BR)\n Claudia\n Tyler\n Taylor\n Hanna"
     },
     {
-      "keywords": ["in pink", "whos in pink", "pink group", "pink members"],
+      "keywords": ["1f", "in pink", "whos in pink", "pink group", "pink members"],
       "answer": "PINK:\n Eddy (BR)\n Cameron (BR)\n Riley\n Oscar\n Lydia S\n Cameran"
     },
     {
-      "keywords": ["in blue", "whos in blue", "blue group", "blue members"],
+      "keywords": ["1a", "in blue", "whos in blue", "blue group", "blue members"],
       "answer": "BLUE:\n Kat (BR)\n Bella\n Sage\n Lily L\n Lily M"
     },
     {
-      "keywords": ["in a", "whos in a", "a group", "a members", "in arts", "whos in arts", "arts group", "arts members"],
+      "keywords": ["3a", "in a", "whos in a", "a group", "a members", "in arts", "whos in arts", "arts group", "arts members"],
       "answer": "A&S:\n Anne (CR)\n Cameron\n Oscar\n Lily L\n Lily M\n Maggie"
     },
     {
-      "keywords": ["in b", "whos in b", "b group", "b members", "in business", "whos in business", "business group", "business members"],
+      "keywords": ["3b", "in b", "whos in b", "b group", "b members", "in business", "whos in business", "business group", "business members"],
       "answer": "COB:\n Nate (CR)\n Hank\n Riley\n Eddy\n Taylor\n Morgan Spence"
     },
     {
-      "keywords": ["in c", "whos in c", "c group", "c members", "in comms", "whos in comms", "comms group", "comms members"],
+      "keywords": ["3c", "in c", "whos in c", "c group", "c members", "in comms", "whos in comms", "comms group", "comms members"],
       "answer": "COMMS:\n Eddie (CR)\n Amy\n Chloe B\n Kat\n Lucy C\n Bella"
     },
     {
-      "keywords": ["in d", "whos in d", "d group", "d members", "in education", "whos in education", "education group", "education members"],
+      "keywords": ["3d", "in d", "whos in d", "d group", "d members", "in education", "whos in education", "education group", "education members"],
       "answer": "EDUCATION:\n Megan (CR)\n Kurt\n Clara\n Cameran\n Morgan Stricklen\n Mariah"
     },
     {
-      "keywords": ["in e", "whos in e", "e group", "e members", "in engineering", "whos in engineering", "engineering group", "engineering members"],
+      "keywords": ["3e", "in e", "whos in e", "e group", "e members", "in engineering", "whos in engineering", "engineering group", "engineering members"],
       "answer": "ENGINEERING:\n Ethan (CR)\n Ian\n Hannah\n Sydney\n Sam\n Dominic"
     },
     {
-      "keywords": ["in f", "whos in f", "f group", "f members", "in fine", "whos in fine", "fine group", "fine members"],
+      "keywords": ["3f", "in f", "whos in f", "f group", "f members", "in fine", "whos in fine", "fine group", "fine members"],
       "answer": "FINE ARTS:\n Tyler (CR)\n Elyse\n Jay\n Claudia\n Hanna\n AJ"
     },
     {
-      "keywords": ["in g", "whos in g", "g group", "g members", "in htc", "whos in htc", "htc group", "htc members"],
+      "keywords": ["3g", "in g", "whos in g", "g group", "g members", "in htc", "whos in htc", "htc group", "htc members"],
       "answer": "HTC:\n Sam (CR)\n Izzy\n Lucy B"
     },
     {
-      "keywords": ["in h", "whos in h", "h group", "h members", "in health", "whos in health", "health group", "health members"],
+      "keywords": ["3h", "in h", "whos in h", "h group", "h members", "in health", "whos in health", "health group", "health members"],
       "answer": "HSP:\n Aries (CR)\n Lucy B\n Erin\n Katie\n Alexa\n Melody\n Maddie"
     },
     {
-      "keywords": ["in j", "whos in j", "j group", "j members", "in unc", "whos in unc", "unc group", "unc members"],
+      "keywords": ["3j", "in j", "whos in j", "j group", "j members", "in unc", "whos in unc", "unc group", "unc members"],
       "answer": "UNC:\n Alexis (CR)\n Lucas\n Emma\n Izzy\n Lydia\n Lilli\n Max"
     }
   ]
