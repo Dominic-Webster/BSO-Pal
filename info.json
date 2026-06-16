@@ -294,7 +294,7 @@
     },
     {
       "keywords": ["slate", "slate link", "how do I get on slate"],
-      "answer": "The link to Slate is: https://enroll.ohio.edu/manage/ \n - Click 'Events' tab at the top\n - Select BSO event for today\n - Click 'Launch Registration'"
+      "answer": "The link to Slate is: https://enroll.ohio.edu/manage/ \n - Click 'Events' tab at the top\n - Select BSO event for today\n - Click 'Launch Check-In'"
     },
     {
       "keywords": ["family and guest schedule", "family", "guest"],
@@ -531,6 +531,10 @@
     {
       "keywords": ["morgan"],
       "answer": "Morgan Spence: Purple / B\nMorgan Stricklen: Lime / D"
+    },
+    {
+      "keywords": ["lucy"],
+      "answer": "Lucy B: Red / G & H\nLucy C: Green / C"
     },
     {
       "keywords": ["grads", "grad", "ga", "belle", "kayla", "lydia perry", "lydia ga", "gas", "parker", "chloe good"],
