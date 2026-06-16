@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "keywords": ["hi", "hello", "hey"],
+      "keywords": ["hi", "hello", "hey", "sup"],
       "answer": "Hi! How can I be of assistance?"
     },
     {
@@ -537,7 +537,15 @@
       "answer": "Lucy B: Red / G & H\nLucy C: Green / C"
     },
     {
-      "keywords": ["grads", "grad", "ga", "belle", "kayla", "lydia perry", "lydia ga", "gas", "parker", "chloe good"],
+      "keywords": ["chloe"],
+      "answer": "Chloe B (OL): Orange / C\nChloe G (GA): Mod Squad"
+    },
+    {
+      "keywords": ["cam"],
+      "answer": "Cameran: Pink / D\nCameron: Pink / A"
+    },
+    {
+      "keywords": ["grads", "grad", "ga", "belle", "kayla", "lydia perry", "lydia ga", "gas", "parker", "chloe good", "chloe g"],
       "answer": "Lydia: Pod A (OC: Casidy)\nBelle: Pod B (OC: Sage)\nKayla: Pod C (OC: Nina)\nParker: Pod D (OC: Ryan)\nChloe: Mod Squad (OC: Sophia)"
     },
     {
