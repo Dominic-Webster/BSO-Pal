@@ -149,6 +149,10 @@
       "answer": "UNIVERSITY COLLEGE (J)\n - Succeeding: Schoonover 145\n - Academic Essentials: Tupper 101, 102, 104, & 107\n - Advising: Tupper 101, 102, 104, & 107"
     },
     {
+      "keywords": ["forgot email password", "forgot password", "reset password", "reset email password"],
+      "answer": "To reset an email password, go to \"account.ohio.edu\" and select \"Reset Password\""
+    },
+    {
       "keywords": ["whats a", "what is a"],
       "answer": "A is Arts and Science"
     },
